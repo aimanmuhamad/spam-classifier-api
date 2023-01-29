@@ -1,1 +1,1 @@
-# spam-classifier-api
+# Spam Classifier API
