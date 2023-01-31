@@ -10,5 +10,4 @@ def predict(input):
     prediction = model.predict(input)
     float_index = float(prediction[0][0])
     
-    results = predicts[float_index]
-    return results
+    return float_index
