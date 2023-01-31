@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from config import app_config
-from payloads import Payload
+from payload import Payload
 from nlp_pipeline.preprocessing import tokenization
 from nlp_pipeline.inference import predict
 
